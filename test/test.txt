@@ -1,3 +1,3 @@
 test.txt
-After first push
-
+After first push.
+After second push.
